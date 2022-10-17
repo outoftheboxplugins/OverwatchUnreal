@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{1C3589B1-4F3D-AEE5-DF2A-19A157D2B71E}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "OverwatchUnreal",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
